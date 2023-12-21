@@ -7,7 +7,7 @@
 .atom/
 .buildlog/
 .history
-.svn/
+.svn/ 
 migrate_working_dir/
 
 # IntelliJ related
